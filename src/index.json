@@ -327,7 +327,7 @@
         "dev-spaces-preview": [
             {
                 "filename": "dev_spaces_preview-0.1.0-py2.py3-none-any.whl",
-                "sha256Digest": "36d069fe34581be931823cd2327a5dce5269fc2db36051d87bafca6d72a68cfc",
+                "sha256Digest": "1203df621c0f72d052220314a2e480623243b6d17957b27606694ab62ce14185",
                 "downloadUrl": "https://azuredevspacestools.blob.core.windows.net/azdssetup/LKS/dev_spaces_preview-0.1.0-py2.py3-none-any.whl",
                 "metadata": {
                     "azext.isPreview": true,
